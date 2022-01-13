@@ -1,4 +1,4 @@
-#------ ID : 20CE082 NAME : HARSH PAREL -------#
+#------ ID : 20CE082 NAME : HARSH PATEL -------#
 ###### Q-1 Write a Python script to check whether a given key already exists in a dictionary.
 def check(a):
     if a in emp:
